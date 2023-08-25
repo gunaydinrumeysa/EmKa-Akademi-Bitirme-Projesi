@@ -1,2 +1,6 @@
 # EmKa-Akademi-Bitirme-Projesi
-car_acceptability
+
+
+Hedefimiz aracın özelliklerine bakarak arabanın almaya ne kadar değer bir araba olduğunu tespit etmek.
+
+Amaç bunu yüksek oranlarda tespit eden bir model kurmak.
